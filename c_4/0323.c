@@ -1,4 +1,4 @@
-```c
+
 #include <stdio.h>
 int main(){
     double x,y,result;
@@ -20,4 +20,3 @@ int main(){
 
     return 0;
 }
-```
