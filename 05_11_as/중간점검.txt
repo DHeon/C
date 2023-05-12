@@ -1,0 +1,16 @@
+1. 90도에서의 싸인값을 계산하는 문장을 작성하여 보라.
+
+#include <stdio.h>
+#include <math.h>
+
+#define _USE_MATH_DEFINES
+
+int main(){
+    double x;
+    x = M_PI/2;
+    printf("sin 90은 %lf 이다.\n",sin(x);
+    return 0;
+}
+
+2. rand( ) % 10 이 계산하는 값의 범위는?
+0에서 9까지 이다.
